@@ -1,0 +1,15 @@
+<suite name="HW -HOME WORK">
+
+	<test name="LoginModule">
+		<classes>
+			<class name="com.bitm.HWofMavenPROJECT.Test.LoginHROrangeTest" />			
+		</classes>
+	</test>
+	<test name="AssignLeaveModule">
+		<classes>
+			<class name="com.bitm.HWofMavenPROJECT.Test.AssignLeaveTest" />			
+		</classes>
+	</test>
+	
+
+</suite>
