@@ -27,6 +27,7 @@ public class LoginHROrangeTest {
 		driver.findElement(By.xpath(XpathUtils.LoginModule.password)).sendKeys("admin123");
 		driver.findElement(By.id(XpathUtils.LoginModule.loginBtn)).click();		
 		System.out.println("Logged In Successfully!");
+		System.out.println("Added1");
 	}	
 
 }
